@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite the associated research article:"
+authors:
+  - family-names: "Bensouda Mourri"
+    given-names: "Otmane"
+    email: "otmane.bensouda@usmba.ac.ma" # ou l'email que vous voulez
+  - family-names: "Baaba"
+    given-names: "Mohamed"
+  - family-names: "Ouallal"
+    given-names: "Abdelkarim"
+  - family-names: "Khazaza"
+    given-names: "Ayyoub"
+  - family-names: "Lakhili"
+    given-names: "Ferdaouss"
+  - family-names: "El Amarty"
+    given-names: "Fahed"
+  - family-names: "Benaabidate"
+    given-names: "Lahcen"
+title: "Development of a 30-m Spatiotemporal Land Use/Land Cover Dataset (1985–2025) for the Allal El Fassi Watershed (Morocco) Using Landsat Time Series and Google Earth Engine"
+version: 1.0.0
+date-released: 2026-07-22
+url: "https://github.com/mohamedBaaba/LULC_AllalElFassi"
+repository-code: "https://github.com/mohamedBaaba/LULC_AllalElFassi"
+keywords:
+  - "Land Use Land Cover"
+  - "Remote Sensing"
+  - "Morocco"
+  - "Landsat"
+  - "Google Earth Engine"
+  - "CCDC"
+  - "Random Forest"
+  - "Time Series"
+  - "Watershed"
+license: "CC-BY-4.0"
