@@ -7,7 +7,27 @@
 **Land Use / Land Cover (LULC) time series dataset (30 m resolution) for the Allal El Fassi watershed, Morocco, covering 1985 to 2025.**
 
 ---
+## 📄 Associated Publication
 
+This dataset accompanies the following research article:
+
+**Bensouda Mourri, O., Baaba, M., Ouallal, A., Khazaza, A., Lakhili, F., El Amarty, F., & Benaabidate, L.** (2026). *Development of a 30-m Spatiotemporal Land Use/Land Cover Dataset (1985–2025) for the Allal El Fassi Watershed (Morocco) Using Landsat Time Series and Google Earth Engine*. [Journal Name – à ajouter quand il sera publié]
+
+When using this dataset, please cite both:
+1. This dataset (as above)
+2. The associated research article
+
+---
+
+### Authors Affiliation
+
+- **Otmane Bensouda Mourri** : Laboratory of Geo-Resources and Environment (LGRE), FST-Fes, Sidi Mohammed Ben Abdellah University, Morocco / National Agency for Water and Forests (ANEF), Morocco.
+- **Mohamed Baaba** : National Agency for Water and Forests (ANEF), Morocco.
+- **Abdelkarim Ouallal** : National Agency for Water and Forests (ANEF), Morocco.
+- **Ayyoub Khazaza** : Functional Ecology and Environmental Engineering Laboratory (LEFGE), FST-Fes, Morocco / National Agency for Water and Forests (ANEF), Morocco.
+- **Ferdaouss Lakhili** : Laboratory of Intelligent Systems, Energy, and Sustainable Development (SIEDD), Private University of Fez, Morocco.
+- **Fahed El Amarty** : Laboratory of Geo-Resources and Environment (LGRE), FST-Fes, Morocco / Laboratory of Intelligent Systems, Energy, and Sustainable Development (SIEDD), Private University of Fez, Morocco.
+- **Lahcen Benaabidate** : Laboratory of Geo-Resources and Environment (LGRE), FST-Fes, Sidi Mohammed Ben Abdellah University, Morocco.
 ## 📖 Description
 
 This dataset comprises **29 annual land cover maps** produced from the Landsat archive (TM, ETM+, OLI, OLI-2) using Google Earth Engine. It combines the **CCDC** (Continuous Change Detection and Classification) algorithm with a **Random Forest** classifier.
