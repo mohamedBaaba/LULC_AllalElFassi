@@ -1,9 +1,9 @@
 #!/bin/bash
 
-# Créer le dossier s'il n'existe pas
+
 mkdir -p data/annual_maps
 
-# URL de base de votre Cloudflare R2 (corrigée)
+
 BASE_URL="https://files.sig-maroc.com/LULC_AllalElFassi"
 
 # Années : 1985, 1990, 1995 + TOUTES les années de 2000 à 2025
